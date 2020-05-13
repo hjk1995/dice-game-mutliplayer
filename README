@@ -1,0 +1,5 @@
+Description of fils in current directory
+
+1) client.c: C file for connecting with server
+2) project.h: Custom header file for reusablity of code with socket connection function of server and client
+3) server.c: C file for creating socket connection and thus creating environment for client to connect server
